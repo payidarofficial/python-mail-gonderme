@@ -1,5 +1,6 @@
 ❗ Öncelikle Paketi Kurmamız Gerekiyor
 
-✨ ```python
+```python
 pip install smtplib
 ```
+✨ İyi Kullanımlar.
