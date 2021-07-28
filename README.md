@@ -1,2 +1,5 @@
-# python-mail-gonderme
-Python İle Email Gönderme
+❗ Öncelikle Paketi Kurmamız Gerekiyor
+
+✨ ```python
+pip install smtplib
+```
